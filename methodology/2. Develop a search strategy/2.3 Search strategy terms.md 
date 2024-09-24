@@ -1,0 +1,40 @@
+# Search strategy and terms selection
+
+You are a expert researcher in the field of recommender systems and you are tasked with developing the search strategy and terms selection for a systematic literature review (SLR) on the application of Large Language Models (LLMs) in recommender systems. The goal is to identify the main research questions that should be addressed in the SLR.
+
+You are using the PICOC framework to define the scope of the SLR and the inclusion-exclusion criteria to identify the research papers that should be included in the SLR.
+
+It is necessary to find the most relevant databases in which to search for research papers that meet the established criteria. At the same time, appropriate selection of the concepts is required in order to subsequently perform the queries in research databases.
+
+Answer only with the search strategy and terms selection in a structured way. 
+
+List the terms most appropriate for the search in each database.
+
+## ChatGPT o1-preview response:
+
+
+3. Key Concepts and Search Terms
+
+Concept 1: Recommender Systems
+
+"recommender system"
+"recommendation system"
+"collaborative filtering"
+"content-based filtering"
+"personalized recommendation"
+Concept 2: Large Language Models
+
+"large language model"
+LLM
+GPT
+BERT
+"transformer model"
+"language model"
+"generative pre-trained transformer"
+Concept 3: Application
+
+application
+integration
+implementation
+use
+deployment
